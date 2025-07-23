@@ -10,7 +10,7 @@
 
 # Natural Language Processing Live Lessons
 
-### Code and slides to accompany the online lecture series (https://bit.ly/NLP_LL) by Data For Science.
+### Code and slides to accompany the online lecture series (https://bit.ly/NLP_LL_v3) by Data For Science.
 
 Natural Language Processing LiveLessons covers the fundamentals and some of the more advanced aspects of Natural Language Processing in a simple and intuitive way, empowering you to add NLP to your toolkit. Using the powerful NLTK package, it gradually moves from the basics of text representation, cleaning, topic detection, regular expressions, and sentiment analysis before moving on to the PyTorch deep learning framework to explore advanced topics such as text classification and sequence-to-sequence models. The transformer architectures underlying Large Language Models (LLMs) like ChatGPT, Claude and BERT are explored in depth along with some practical applications. After successfully completing these lessons you'll be equipped with a fundamental and practical understanding of the full breath of Natural Language Processing tools and algorithms.
 
